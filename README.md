@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋 I'm Ikram
 
-<!--
-**ikramtazdait/ikramtazdait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at ESISA
 
-Here are some ideas to get you started:
+👩‍💻 About Me
+🌱 Currently learning Software Engineering
+💻 Passionate about C programming and Assembly
+🎮 I enjoy developing games and desktop applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+C • Assembly • HTML • CSS • Python • Git
+
+🚀 Projects
+📁 File Management System
+🎓 Student Management System
+💄 Beauty Styling Game
+
+📫 Contact
+i.tazdait@esisa.ac.ma
