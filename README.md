@@ -1,19 +1,26 @@
-Hi 👋 I'm Ikram
+# Ikram Tazdait
 
-🎓 Software Engineering Student at ESISA
+## Software Engineering Student at ESISA
 
-👩‍💻 About Me
-🌱 Currently learning Software Engineering
-💻 Passionate about C programming and Assembly
-🎮 I enjoy developing games and desktop applications
+### About Me
 
-🛠️ Skills
-C • Assembly • HTML • CSS • Python • Git
+First-year Software Engineering student passionate about software development and problem solving. I enjoy building applications in C and Assembly and continuously improving my programming skills.
 
-🚀 Projects
-📁 File Management System
-🎓 Student Management System
-💄 Beauty Styling Game
+### Technical Skills
 
-📫 Contact
-i.tazdait@esisa.ac.ma
+- C
+- x86 Assembly
+- HTML
+- CSS
+- Python (Basic)
+- Git & GitHub
+
+### Projects
+
+- File Management System (Assembly)
+- Student Management System
+- Beauty Styling Game
+
+### Contact
+
+Email: i.tazdait@esisa.ac.ma
